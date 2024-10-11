@@ -1,0 +1,22 @@
+/* main-container design */
+.main-container{
+      display:block;
+      height: 100vh;
+      width: 100vw;
+}
+/* container design */
+.register-container{
+      display:flex;
+      width: 840px;
+      height: 550px;
+}
+/* logo design */
+.logo img{
+      width: 100px;
+      height: 75px;
+      
+}
+.logo h2{
+      color: #468191;
+}
+/* ends here */
